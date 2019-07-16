@@ -1,0 +1,13 @@
+#content{
+	float:left;
+	margi-left:50px;
+	background-color:#0099cc;
+}
+.container{
+	background-color:#0099cc;}
+h2{
+	text-align:left;
+}
+.tablediv{
+	background-color :gray;
+}

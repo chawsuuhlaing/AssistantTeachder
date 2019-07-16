@@ -1,0 +1,28 @@
+.imgButton{
+    text-align:left;
+    color:blue;
+    
+}
+.imgContainer{
+	float:left;
+}
+subjectdiv{
+	text-align:center;
+}
+.margindiv{
+	margin-top:50px;
+}
+img,button{
+	margin-left:50px;
+}
+p{
+	margin-left:50px;
+	
+	text-color:white;
+}
+img{
+	height:250px;
+	width:250px;
+}
+	
+	
