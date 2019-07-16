@@ -47,7 +47,7 @@
                 <tr class="gradeX">
                   <td>${item.id}</td>
                   <td>${item.year}</td>
-                  <td> <a href="<c:url value='/updateYear.htm/${item.id}' />" class="btn btn-info">Edit</a><a href= type="submit" class="btn btn-info">Delete</button></td>
+                  <td> <a href="<c:url value='/updateYear.htm/${item.id}' />" class="btn btn-info">Edit</a><a href="<c:url value='/yearlist.jsp'/>"class="btn btn-info">Delete</button></td>
                      
                 </tr>
                 </c:forEach>
